@@ -5,7 +5,7 @@ This project is an Iterative-Retiming with Latch-based Time Borrowing (IR-LBTB) 
 
 **Install**
 
-Download vtr: git clone --recursive https://github.com/verilog-to-routing/vtr-verilog-to-routing.git  
+Download RTB: git clone --recursive https://anonymous.4open.science/r/RTB-CC61/  
 
     To compile VTR:  
         cd vtr-verilog-to-routing-8.0.0  
@@ -34,6 +34,7 @@ IR-LBTB can perform iterative retiming and latch based time borrowing for the be
         ./IR_LBTB.sh  
 
 **File directory:**  
+
     1.benchmark: test case  
     2.src: source code for IR-LBTB  
     3.LBTB: Code for Latch based timing analysis  
