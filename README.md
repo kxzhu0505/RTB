@@ -26,12 +26,12 @@ Download RTB: git clone --recursive https://anonymous.4open.science/r/RTB-CC61/
   
 **Usage**  
 
-IR-LBTB can perform iterative retiming and latch based time borrowing for the benchmark circuits.  
+RTB can perform iterative retiming and latch based time borrowing for the benchmark circuits.  
 
-    To use IR-LBTB:  
+    To use RTB:  
 
-        chmod +x IR_LBTB.sh  
-        ./IR_LBTB.sh  
+        chmod +x RTB.sh  
+        ./RTB.sh  
 
 **File directory:**  
 
